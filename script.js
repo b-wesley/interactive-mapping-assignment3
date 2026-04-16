@@ -1,5 +1,6 @@
 
-mapboxgl.accessToken = "MAPBOX_TOKEN_PLACEHOLDER"
+mapboxgl.accessToken = "pk.eyJ1IjoiYnJhbnQxIiwiYSI6ImNtbmkydXgyMjA5Y2oycHE1cGh3dXpoNGQifQ.L0mt6vFXI9udGY2BO1XFUA"
+
 
 /*
 setting boilerplate map stuff
