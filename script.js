@@ -1,4 +1,4 @@
-mapboxgl.accessToken = "https://github.com/b-wesley/interactive-mapping-assignment3/security/secret-scanning/unblock-secret/3CSGxN1TnFNAWLXSWHifQ3rn4Az"
+mapboxgl.accessToken = "pk.eyJ1IjoiYnJhbnQxIiwiYSI6ImNtbmkydXgyMjA5Y2oycHE1cGh3dXpoNGQifQ.L0mt6vFXI9udGY2BO1XFUA"
 
 /*
 setting boilerplate map stuff
