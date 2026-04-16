@@ -1,6 +1,3 @@
-/*
-TODO: hide that token
-*/ 
 mapboxgl.accessToken = "MAPBOX_TOKEN_PLACEHOLDER"
 
 /*
