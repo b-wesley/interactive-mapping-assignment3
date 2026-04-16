@@ -1,0 +1,46 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+#map-container {
+  height: 100%;
+  background-color: rgb(0, 110, 193);
+}
+
+#welcome-banner {
+  display: flex;
+  align-items: flext-start;
+
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+
+  position: absolute;
+  height: 150px;
+  width: 1000px;
+  background-color: teal;
+  color: white;
+  text-align: center;
+
+  z-index:3;
+  border-radius: 12px;
+  padding: 24px;
+
+
+}
+
+#welcome-banner, h2 {
+  align-items: flext-start;
+  color: white;
+  text-align: center;
+
+  padding: 24px;
+
+
+}
